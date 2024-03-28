@@ -1,4 +1,8 @@
-## Hi there 👋
+# SatoRed (Satoshi's Redemption)
+
+Please see our primary repo: [satored](https://github.com/satored/satored).
+
+SatoRed is under develompment. The launch date has yet to be decided. Most code will be private until launch. A launch date will be announced across our channels. Please see [satored.com](https://satored.com).
 
 <!--
 
