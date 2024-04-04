@@ -1,3 +1,3 @@
-# ImpStack
+# EarthBucks
 
-ImpStack is under construction. The code will be published here on launch day.
+EarthBucks is under construction. The code will be published here on launch day.
