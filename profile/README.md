@@ -1,3 +1,3 @@
-# EarthBucks
+# OpenSPV
 
-EarthBucks is under construction. The code will be published here on launch day.
+OpenSPV is under construction.
