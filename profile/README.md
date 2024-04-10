@@ -1,3 +1,3 @@
-# OpenSPV
+# EarthBucks
 
-OpenSPV is under construction.
+EarthBucks is under construction.
